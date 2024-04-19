@@ -1,0 +1,17 @@
+{
+  "AARINI_MED_CLAIM_CLAIMREPORTS": {
+    "target": {
+      "object": "ClaimReports_view"
+    }
+  },
+  "AARINI_MED_CLAIM_MANAGECALIMS": {
+    "target": {
+      "object": "Managecalims_view"
+    }
+  },
+  "AARINI_MED_CLAIM_CLAIMDETAILS": {
+    "target": {
+      "object": "ClaimDetails"
+    }
+  }
+}
